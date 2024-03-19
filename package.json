@@ -1,0 +1,16 @@
+{
+  "name": "pd-split-output-sample",
+  "version": "1.0.0",
+  "description": "Demonstrate PrizmDoc functionality to join, redact, and split documents",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node main.js"
+  },
+  "author": "Jamison Prianos <jprianos@accusoft.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "uuid": "^9.0.1"
+  }
+}
