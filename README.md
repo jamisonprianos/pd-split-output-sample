@@ -9,8 +9,6 @@ git clone https://github.com/jamisonprianos/pd-split-output-sample.git
 
 cd pd-split-output-sample
 
-mkdir ./output_files
-
 docker build . -t pd-split-output-sample:local
 
 docker run -it \
